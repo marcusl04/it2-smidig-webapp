@@ -2,15 +2,18 @@
 
 Skriv en kort beskrivelse av appen her  
 
+Jeg har tenkt til å lage en spotfy-app, hvor man har flere funksjoner. Starter men en enkel kode først, hvor jeg har en liste med artister og deres sanger, og skal uthente informasjon om dem. Dette er øvelse til den ordenltige funksjonen jeg vil ha. Jeg vil gjøre at brukeren søker opp en artist, og artistens 5 mest lyttede til sanger kommer opp. Jeg er ganske optimistisk og tenker at hvis jeg får det til, kan jeg legge til andre funksjoner. Hvis man søker opp en artist kommer masse informasjon om artisten, for eksempel antall månedlige lyttere, deres sosiale medier osv. Jeg ønsker også å få til en funksjon hvor brukeren søker opp en artist, og alle albumene kommer opp. Brukeren vil da få mulighet til å trykke på et av albumene og den første sangen vil spilles av.
+
 - [Prosjektbeskrivelse](./prosjektbeskrivelse.md)
 
 ## Skal gjøres
-
-- [ ] Hva er planen din?
-- [x] Eksempel på ferdig gjøremål
+Tenke ut en ide
+Lage ordliste med artister og sanger
+Hente informasjon fra ordlistene
+Finne spotfy API som jeg kan bruke
+Fikse basic css
 
 ## Logg
-
 ### Uke 1
 
 - Hva har du gjort denne uka?
